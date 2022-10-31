@@ -455,7 +455,7 @@ if(hit_material.type == ROUGH){
 
 ### 2.4.3 镜面反射
 
-![图7 镜面反射原理](https://img-blog.csdnimg.cn/636118aa0a264a7089de3a94519e2bc0.png 图7 镜面反射原理')   
+![图7 镜面反射原理](https://img-blog.csdnimg.cn/636118aa0a264a7089de3a94519e2bc0.png '图7 镜面反射原理')   
 图7 镜面反射原理
 
 镜面反射原理非常简单，在已知入射光线方向与法向量的情况下，反射光线可被表示为：
